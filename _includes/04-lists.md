@@ -1,3 +1,3 @@
--pista
--badam
--eggs
+- pista
+- badam
+ -eggs
